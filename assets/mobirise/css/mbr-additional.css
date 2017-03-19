@@ -8,6 +8,9 @@
 #dropdown-menu-2btn-0 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-size: 12px;
+}
 #dropdown-menu-2btn-0 .nav .link,
 #dropdown-menu-2btn-0 .dropdown-item {
   font-size: 1.2em;
@@ -15,12 +18,12 @@
 }
 #dropdown-menu-2btn-0 .navbar,
 #dropdown-menu-2btn-0 .dropdown-menu {
-  background: #484646;
+  background: #302c2c;
 }
 #dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-0 .dropdown-menu a:hover,
 #dropdown-menu-2btn-0 .dropdown-menu a:focus {
-  background: #3e3c3c;
+  background: #252222;
 }
 #dropdown-menu-2btn-0 .navbar-toggler {
   color: #ffffff;
