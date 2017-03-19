@@ -47,14 +47,54 @@
 #features1-a P {
   text-align: center;
 }
-#social-buttons2-c .mbr-section-title {
-  text-align: right;
-}
 #contacts2-4 P {
   font-size: 18px;
   font-family: 'Alegreya Sans', sans-serif;
 }
 #contacts2-4 STRONG {
+  font-family: 'Lato', sans-serif;
+  font-size: 23px;
+  color: #f2f2f2;
+}
+
+
+#dropdown-menu-2btn-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-d .navbar-brand a {
+  font-size: 12px;
+}
+#dropdown-menu-2btn-d .nav .link,
+#dropdown-menu-2btn-d .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-d .navbar,
+#dropdown-menu-2btn-d .dropdown-menu {
+  background: #302c2c;
+}
+#dropdown-menu-2btn-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-d .dropdown-menu a:hover,
+#dropdown-menu-2btn-d .dropdown-menu a:focus {
+  background: #252222;
+}
+#dropdown-menu-2btn-d .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box3-g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-g .lead P {
+  text-align: left;
+}
+#contacts2-e P {
+  font-size: 18px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#contacts2-e STRONG {
   font-family: 'Lato', sans-serif;
   font-size: 23px;
   color: #f2f2f2;
